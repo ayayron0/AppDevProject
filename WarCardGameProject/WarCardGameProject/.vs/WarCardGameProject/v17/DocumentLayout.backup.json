@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|solutionrelative:gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\playstyleoptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|solutionrelative:playstyleoptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|solutionrelative:mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|solutionrelative:musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|solutionrelative:settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\playstyleoptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|solutionrelative:playstyleoptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|solutionrelative:settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|c:\\users\\arend\\onedrive\\desktop\\warcardgameproject\\warcardgameproject\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\playstyleoptionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFFD7EA-4111-41AA-8BB7-87645D660803}|WarCardGameProject.csproj|solutionrelative:playstyleoptionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\Card.cs",
+              "RelativeToolTip": "Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:51:14.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\GameForm.cs",
+              "RelativeDocumentMoniker": "GameForm.cs",
+              "ToolTip": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\GameForm.cs",
+              "RelativeToolTip": "GameForm.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwIgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:08:52.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\GameForm.Designer.cs",
+              "RelativeToolTip": "GameForm.Designer.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAASwKIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:00:53.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\GameForm.cs",
+              "RelativeDocumentMoniker": "GameForm.cs",
+              "ToolTip": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\GameForm.cs [Design]",
+              "RelativeToolTip": "GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:00:54.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingForm.cs",
+              "DocumentMoniker": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\SettingForm.cs",
+              "RelativeDocumentMoniker": "SettingForm.cs",
+              "ToolTip": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\SettingForm.cs",
+              "RelativeToolTip": "SettingForm.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:19:48.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\SettingForm.cs",
+              "RelativeDocumentMoniker": "SettingForm.cs",
+              "ToolTip": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\SettingForm.cs [Design]",
+              "RelativeToolTip": "SettingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:19:47.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayStyleOptionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\PlayStyleOptionForm.cs",
+              "RelativeDocumentMoniker": "PlayStyleOptionForm.cs",
+              "ToolTip": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\PlayStyleOptionForm.cs [Design]",
+              "RelativeToolTip": "PlayStyleOptionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:15:00.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\MusicManager.cs",
+              "RelativeDocumentMoniker": "MusicManager.cs",
+              "ToolTip": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\MusicManager.cs",
+              "RelativeToolTip": "MusicManager.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv1kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:55:02.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayStyleOptionForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\PlayStyleOptionForm.Designer.cs",
+              "RelativeDocumentMoniker": "PlayStyleOptionForm.Designer.cs",
+              "ToolTip": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\PlayStyleOptionForm.Designer.cs",
+              "RelativeToolTip": "PlayStyleOptionForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:59:03.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\MainMenuForm.cs [Design]",
+              "RelativeToolTip": "MainMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:56:11.473Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayStyleOptionForm.cs",
+              "DocumentMoniker": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\PlayStyleOptionForm.cs",
+              "RelativeDocumentMoniker": "PlayStyleOptionForm.cs",
+              "ToolTip": "C:\\Users\\arend\\OneDrive\\Desktop\\WarCardGameProject\\WarCardGameProject\\PlayStyleOptionForm.cs",
+              "RelativeToolTip": "PlayStyleOptionForm.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:15:04.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
